@@ -1,0 +1,28 @@
+name: Internet of Things
+favicon: null
+layout_spectrum: 0.8454318458680063
+typography_spectrum: 0.745865682605654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4244591419119388
+  lightness: 0.2510688272304833
+  saturation: 0.8860202685464174
+  rhythmicContrast: 0.25582721503451467
+purpose: []
